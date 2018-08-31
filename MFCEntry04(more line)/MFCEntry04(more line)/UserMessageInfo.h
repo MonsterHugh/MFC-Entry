@@ -1,0 +1,3 @@
+#pragma once
+#define WM_SENDMESSAGE WM_USER+1
+#define WM_THREADMESSAGE WM_USER+2

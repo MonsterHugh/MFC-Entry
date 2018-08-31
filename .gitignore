@@ -1,0 +1,7 @@
+﻿################################################################################
+# 此 .gitignore 文件已由 Microsoft(R) Visual Studio 自动创建。
+################################################################################
+
+/.vs
+/MFCEntry04(more line)/.vs/MFCEntry04(more line)/v15
+/MFCEntry04(more line)/MFCEntry04(more line)/Debug
